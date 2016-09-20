@@ -1,2 +1,2 @@
-# Nease-Robotics-Club-intro
-The repository we'll likely be using until competition
+#Welcome to the Nease Robotics Programming Team!
+This is out GitHub repository, something we can use to improve your programming skills
