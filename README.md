@@ -6,4 +6,7 @@ If you don't remember me, I'm Will. I'll be acting as the administrator for this
 > - Import any libraries crucial to the program, like `<kipr/botbal.h>` and `<iostream>` for C++ files
 > - You can always email me at wenglish0223@gmail.com for any questions, comments, concerns, suggestions, jokes, Monty Python references, and distractions.
 
+###Assignments
+> - Correct and submit file "Correct1.c"
+
 **This readme is written in Markdown language, it's really simple and easy to learn. If you have any suggestions to improve this page please submit them in the form of a pull request
