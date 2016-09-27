@@ -9,4 +9,4 @@ If you don't remember me, I'm Will. I'll be acting as the administrator for this
 ###Assignments
 > - Correct and submit file "Correct1.c"
 
-**This readme is written in Markdown language, it's really simple and easy to learn. If you have any suggestions to improve this page please submit them in the form of a pull request
+**This readme is written in Markdown language, it's really simple and easy to learn. If you have any suggestions to improve this page please submit them.
