@@ -3,7 +3,7 @@ Ok so it's build season, and you all know what that means... Non stop code for s
 So rev up those IDEs and get your ctrl+a ctrl+c ctrl+v game ready, because it's time to solve
 problems we didn't know we had and time to identify problems only GOD can fix.
 Have fun.
-PLEASE FAMILIARIZE YOURSELF WITH THE CONCEPT OF OBJECT ORIENTED PROGRAMMING, WE DON'T HAVE THAT MUCH TIME TO CODE
+
 
 ###Things to remember
 > - The 21st night of September
