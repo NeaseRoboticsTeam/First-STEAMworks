@@ -60,7 +60,7 @@ private:
 	void TeleopPeriodic() override {
 		LStick =pow( WExbox.GetY((frc::GenericHID::JoystickHand)0)/2, 2); //check y value of left stick, divide by 2, square, assign to LSTICK
 		RStick =pow( WExbox.GetY((frc::GenericHID::JoystickHand)1)/2,2); //check y value of right stick, divide by 2, square, assign to RSTICK
-/*
+/* from v3
 		FR.Set(RStick); //set Front right spark to right stick
 		BR.Set(RStick); //set Back right spark to right stick
 		FL.Set(LStick); //set front left spark to left stick
