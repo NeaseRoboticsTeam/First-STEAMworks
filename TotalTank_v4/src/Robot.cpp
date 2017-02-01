@@ -48,9 +48,11 @@ private:
 	void TeleopPeriodic() override {
 		LStickY =  WExbox.GetY((frc::GenericHID::JoystickHand)0)//check y value of left stick
 		RStickY =  WExbox.GetY((frc::GenericHID::JoystickHand)1)//check y value of right stick	
-		LStick =pow(LStickY*3, 3); //multiply by 3, cube, assign to LSTICK
-		RStick =pow(RStickY*3, 3); //multiply by 3, cube, assign to RSTICK
+		LStick =pow(LStickY, 3)+(0.3*LStickY); //multiply by 3, cube, assign to LSTICK
+		RStick =pow(RStickY, 3)+(0.3*RStickY); //multiply by 3, cube, assign to RSTICK
 		myRobot.TankDrive(-LStick, -RStick); //use TankDrive function
+		
+		
 	}
 	void TestPeriodic() override {
 			}
