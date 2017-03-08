@@ -1,17 +1,1 @@
-#Welcome to the Nease Robotics Programming Team!
-Ok so it's build season, and you all know what that means... Non stop code for several weeks! Woo Hoo!
-So rev up those IDEs and get your ctrl+a ctrl+c ctrl+v game ready, because it's time to solve
-problems we didn't know we had and time to identify problems only GOD can fix.
-Have fun.
-
-
-###Things to remember
-> - The 21st night of September
-> - Import any libraries crucial to the program, like `<Joystick.h>, <RobotDrive.h>, <XboxController.h>, <Spark.h>, <WPILib.h>` and `<iostream>` for C++ files
-> - You can always email me at wenglish0223@gmail.com for any questions, comments, concerns, or suggestions. Please hit me up with any code you want to share, anything at all.
-
-###Assignments
-> - Correct and submit file "Variables.c"
-
-**This readme is written in Markdown language, it's really simple and easy to learn. If you have any suggestions to improve this page please submit them.
- 
+OK guys we had a great season. We're proud of everyone who contributed and learned from the experience. We're not updating this repo anymore, beyond the final version of the code I'm about to upload. In any case, if you don't want to stay bored until fall, you can help with the class file we're building for next year. Thanks guys.
